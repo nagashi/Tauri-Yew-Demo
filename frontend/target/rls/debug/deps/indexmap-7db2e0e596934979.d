@@ -1,0 +1,13 @@
+/Users/chas/coding-environment/src/rust/projects/tauri-yew-demo/frontend/target/rls/debug/deps/indexmap-7db2e0e596934979.rmeta: /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/lib.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/macros.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/equivalent.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/mutable_keys.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/util.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core/raw.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/set.rs
+
+/Users/chas/coding-environment/src/rust/projects/tauri-yew-demo/frontend/target/rls/debug/deps/indexmap-7db2e0e596934979.d: /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/lib.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/macros.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/equivalent.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/mutable_keys.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/util.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core/raw.rs /Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/set.rs
+
+/Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/lib.rs:
+/Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/macros.rs:
+/Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/equivalent.rs:
+/Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/mutable_keys.rs:
+/Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/util.rs:
+/Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map.rs:
+/Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core.rs:
+/Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/map/core/raw.rs:
+/Users/chas/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.0/src/set.rs:

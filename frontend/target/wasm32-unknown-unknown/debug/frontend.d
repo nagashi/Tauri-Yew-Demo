@@ -1,0 +1,1 @@
+/Users/chas/coding-environment/src/rust/projects/tauri-yew-demo/frontend/target/wasm32-unknown-unknown/debug/frontend.wasm: /Users/chas/coding-environment/src/rust/projects/tauri-yew-demo/frontend/public/glue.js /Users/chas/coding-environment/src/rust/projects/tauri-yew-demo/frontend/src/main.rs
